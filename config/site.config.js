@@ -1,6 +1,6 @@
 module.exports = {
     global: {
-        author: 'Harry Yep',
+        author: 'Yang SK',
         site: {
             name: 'Notion Photo React Example',
             description: 'Photo Gallery built with Notion, React, Next.js, tailwindcss, TypeScript, Notion-Api-Worker and more.',
